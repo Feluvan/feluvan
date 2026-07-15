@@ -12,10 +12,12 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bilall571&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bilall571&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Feluvan&show_icons=true&theme=radical" width="48%" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Feluvan&theme=radical" width="48%" />
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilall571&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Feluvan&layout=compact&theme=radical" />
+
 </p>
