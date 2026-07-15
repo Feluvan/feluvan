@@ -29,9 +29,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Feluvan&theme=radical&no-frame=true&row=1&column=7" />
   
 </p>
-### 👀 Profil ko'rilganlar
-<img src="https://komarev.com/ghpvc/?username=Feluvan&color=FF6B47&style=flat-square" />
-
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Feluvan&layout=compact&theme=radical" />
 </p>
