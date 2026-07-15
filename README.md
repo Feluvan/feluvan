@@ -4,6 +4,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF6B47&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;POS+Systems;Web+Development" alt="Typing SVG" />
 </p>
+### 🚀 Loyihalarim:
+- 🛒 **Bolalar Dunyosi POS** — to'liq POS tizimi (React, Node.js, PostgreSQL)
+- 🌐 **Feluvan** — IT kompaniya veb-sayti (React, TypeScript, Tailwind)
 
 ### 🛠️ Languages and Tools:
 <p align="left">
@@ -23,6 +26,7 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Feluvan&theme=radical" width="48%" />
   <img src="https://streak-stats.demolab.com/?user=Feluvan&theme=radical" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Feluvan&theme=radical&no-frame=true" />
 </p>
 
 <p align="center">
