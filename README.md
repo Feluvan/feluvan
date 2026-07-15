@@ -26,6 +26,10 @@
 ### 📊 GitHub Stats
 <p align="center"> 
   <img src="https://github-stats-extended.vercel.app/api?username=Feluvan&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Feluvan&theme=radical&no-frame=true&row=1&column=7" />
+  ![](https://capsule-render.vercel.app/api?type=rect&color=FF6B47&height=3&section=footer)
+  <img src="https://komarev.com/ghpvc/?username=Feluvan&color=FF6B47&style=flat-square" />
+  
 </p>
 
 <p align="center">
