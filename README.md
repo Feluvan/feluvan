@@ -31,5 +31,4 @@
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Feluvan&layout=compact&theme=radical" />
   
-  <img src="https://github-profile-trophy.vercel.app/?username=Feluvan&theme=radical&no-frame=true&row=1&column=7" />
 </p>
