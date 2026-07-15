@@ -30,5 +30,5 @@
   
 </p>
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Feluvan&layout=compact&theme=radical" />
+  <!-- <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Feluvan&layout=compact&theme=radical" /> -->
 </p>
