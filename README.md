@@ -24,10 +24,10 @@
 </p>
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Feluvan&show_icons=true&theme=radical" width="48%" />
-
+<p align="center"> 
+  <img src="https://github-stats-extended.vercel.app/api?username=Feluvan&show_icons=true&theme=radical" width="48%" />
 </p>
 
 <p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Feluvan&layout=compact&theme=radical" />
 </p>
