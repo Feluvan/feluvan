@@ -24,11 +24,10 @@
 
 ### 📊 GitHub Stats
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Feluvan&show_icons=true&theme=radical" width="48%" />
   <img src="https://streak-stats.demolab.com/?user=Feluvan&theme=radical" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=Feluvan&theme=radical" width="48%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Feluvan&theme=radical&no-frame=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Feluvan&layout=compact&theme=radical&v=2" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Feluvan&layout=compact&theme=radical" />
 </p>
