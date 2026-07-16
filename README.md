@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer | O'zbekistondan</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF6B47&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;POS+Systems;Web+Development" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF6B47&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;POS+Systems;Web+Development;frontent+Engineer" alt="Typing SVG" />
 </p>
 
 ### 🚀 Loyihalarim:
