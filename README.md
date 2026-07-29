@@ -34,7 +34,12 @@
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Feluvan&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=FF6A47&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="stats" />
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Feluvan&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="top langs" />
 
-<!-- SNAKE-PLACEHOLDER -->
+<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Feluvan/Feluvan/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Feluvan/Feluvan/output/github-snake.svg" />
+  <img alt="Snake eating my contributions" width="100%" src="https://raw.githubusercontent.com/Feluvan/Feluvan/output/github-snake.svg" />
+</picture>
 
 <br/><br/>
 
