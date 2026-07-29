@@ -1,0 +1,7 @@
+<svg width="200" height="60" xmlns="http://www.w3.org/2000/svg">
+<rect width="200" height="60" fill="#000"/>
+<rect id="r" width="200" height="60" fill="#00FF00">
+<animate attributeName="fill" values="#00FF00;#FF0000;#00FF00" dur="0.6s" repeatCount="indefinite"/>
+</rect>
+<text x="10" y="35" font-size="20" fill="#000">BLINK</text>
+</svg>
