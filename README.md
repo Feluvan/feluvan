@@ -4,9 +4,7 @@
   <img alt="Feluvan" src="https://raw.githubusercontent.com/Feluvan/Feluvan/main/light.svg">
 </picture>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF6B47&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;POS+Systems;Web+Development;Frontend+Engineer" alt="Typing SVG" />
-</p>
+
 
 
 
