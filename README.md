@@ -11,6 +11,7 @@
 ### 🚀 Loyihalarim:
 - 🛒 **Bolalar Dunyosi POS** — to'liq POS tizimi (React, Node.js, PostgreSQL)
 - 🌐 **Feluvan** — IT kompaniya veb-sayti (React, TypeScript, Tailwind)
+- 📱 **Polygo** — AI Ustoz bilan til o'rganish ilovasi (React, TypeScript, Vite, Capacitor, Node.js, Gemini AI)
 
 ### 🛠️ Languages and Tools:
 <p align="left">
