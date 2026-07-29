@@ -8,25 +8,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF6B47&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;POS+Systems;Web+Development;Frontend+Engineer" alt="Typing SVG" />
 </p>
 
-### 🚀 Loyihalarim:
-- 🛒 **Bolalar Dunyosi POS** — to'liq POS tizimi (React, Node.js, PostgreSQL)
-- 🌐 **Feluvan** — IT kompaniya veb-sayti (React, TypeScript, Tailwind)
-- 📱 **Polygo** — AI Ustoz bilan til o'rganish ilovasi (React, TypeScript, Vite, Capacitor, Node.js, Gemini AI)
 
-### 🛠️ Languages and Tools:
-<p align="left">
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,postgres,html,css,git,vscode,py" />
-</p>
-
-### 🤖 AI Tools:
-<p align="left">
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
-<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-</p>
-
-### 📊 GitHub Stats
 
 <div align="center">
 
