@@ -46,7 +46,7 @@
 <!-- PROJECTS:START -->
 <div align="center">
 <a href="https://github.com/Feluvan/reakt-exam"><img width="410" src="https://github-readme-stats-beta-blond-65.vercel.app/api/pin/?username=Feluvan&repo=reakt-exam&theme=dark&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&icon_color=A78BFA&border_color=22D3EE" /></a>
+<a href="https://github.com/Feluvan/homework"><img width="410" src="https://github-readme-stats-beta-blond-65.vercel.app/api/pin/?username=Feluvan&repo=homework&theme=dark&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&icon_color=A78BFA&border_color=22D3EE" /></a>
 <a href="https://github.com/Feluvan/komunal-tolovlar"><img width="410" src="https://github-readme-stats-beta-blond-65.vercel.app/api/pin/?username=Feluvan&repo=komunal-tolovlar&theme=dark&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&icon_color=A78BFA&border_color=22D3EE" /></a>
-<a href="https://github.com/Feluvan/poly-go-bot"><img width="410" src="https://github-readme-stats-beta-blond-65.vercel.app/api/pin/?username=Feluvan&repo=poly-go-bot&theme=dark&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&icon_color=A78BFA&border_color=22D3EE" /></a>
 </div>
 <!-- PROJECTS:END -->
