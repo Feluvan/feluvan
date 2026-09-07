@@ -46,7 +46,7 @@
 <!-- PROJECTS:START -->
 <div align="center">
 <a href="https://github.com/mrb1lal/ai-teacher"><img width="410" src="https://github-readme-stats-beta-blond-65.vercel.app/api/pin/?username=mrb1lal&repo=ai-teacher&theme=dark&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&icon_color=A78BFA&border_color=22D3EE" /></a>
-<a href="https://github.com/mrb1lal/react-exam-2"><img width="410" src="https://github-readme-stats-beta-blond-65.vercel.app/api/pin/?username=mrb1lal&repo=react-exam-2&theme=dark&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&icon_color=A78BFA&border_color=22D3EE" /></a>
 <a href="https://github.com/mrb1lal/react-exam-3"><img width="410" src="https://github-readme-stats-beta-blond-65.vercel.app/api/pin/?username=mrb1lal&repo=react-exam-3&theme=dark&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&icon_color=A78BFA&border_color=22D3EE" /></a>
+<a href="https://github.com/mrb1lal/lesson007"><img width="410" src="https://github-readme-stats-beta-blond-65.vercel.app/api/pin/?username=mrb1lal&repo=lesson007&theme=dark&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&icon_color=A78BFA&border_color=22D3EE" /></a>
 </div>
 <!-- PROJECTS:END -->
